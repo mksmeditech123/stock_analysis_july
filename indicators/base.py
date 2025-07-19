@@ -1,3 +1,4 @@
+#editing for testing purposes july 19th 2025
 import pandas as pd
 
 class BaseIndicator:
